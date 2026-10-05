@@ -94,3 +94,4 @@ npm run build
 # 3. Deploy the dist/ directory to the gh-pages branch
 npx gh-pages -d dist
 ```
+Cloudflare deployment update
