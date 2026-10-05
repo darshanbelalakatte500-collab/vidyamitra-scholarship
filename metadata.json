@@ -1,0 +1,6 @@
+{
+  "name": "VidyaMitraScholarship",
+  "description": "Official scholarship application portal for the VidyaMitraScholarship program.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
